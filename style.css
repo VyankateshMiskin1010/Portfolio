@@ -11,7 +11,7 @@ body {
   border-radius: 50%;
   width: 600px;
   height: 600px;
-  background-color: rgba(72, 141, 252, 0.255);
+  background-color: rgba(72, 141, 252, 0.256);
   box-shadow: 0 0 #0000;
   filter: blur(160px);
   pointer-events: none;
